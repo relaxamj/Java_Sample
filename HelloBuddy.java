@@ -3,4 +3,3 @@ public class HelloBuddy {
         System.out.println("Hello buddy, My name is Anand Jha from Bihar");
     }
 }
-..
